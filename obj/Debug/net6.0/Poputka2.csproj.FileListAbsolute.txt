@@ -1,0 +1,15 @@
+D:\geekbrains\Poputka2\bin\Debug\net6.0\Poputka2.exe
+D:\geekbrains\Poputka2\bin\Debug\net6.0\Poputka2.deps.json
+D:\geekbrains\Poputka2\bin\Debug\net6.0\Poputka2.runtimeconfig.json
+D:\geekbrains\Poputka2\bin\Debug\net6.0\Poputka2.dll
+D:\geekbrains\Poputka2\bin\Debug\net6.0\Poputka2.pdb
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.csproj.AssemblyReference.cache
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.AssemblyInfoInputs.cache
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.AssemblyInfo.cs
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.csproj.CoreCompileInputs.cache
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.dll
+D:\geekbrains\Poputka2\obj\Debug\net6.0\refint\Poputka2.dll
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.pdb
+D:\geekbrains\Poputka2\obj\Debug\net6.0\Poputka2.genruntimeconfig.cache
+D:\geekbrains\Poputka2\obj\Debug\net6.0\ref\Poputka2.dll
